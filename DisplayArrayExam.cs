@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Array
 {
-    class DisplayArray
+    class DisplayArrayExam
     {
         static int len;
         static void DiaplayArray(int[] arr)
